@@ -1,0 +1,4 @@
+**/__pycache__
+.*
+*_BIOS_Settings.json
+!/.gitignore
